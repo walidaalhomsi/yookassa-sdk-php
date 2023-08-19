@@ -4,7 +4,13 @@
   "type": "library",
   "license": "MIT",
   "homepage": "https://yookassa.ru/developers/api",
-  "keywords": ["yoomoney", "yookassa", "payments", "api", "sdk"],
+  "keywords": [
+    "yoomoney",
+    "yookassa",
+    "payments",
+    "api",
+    "sdk"
+  ],
   "authors": [
     {
       "name": "YooMoney",
@@ -17,7 +23,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-mbstring": "*",
-    "psr/log": "^1.0"
+    "psr/log": "^3.0"
   },
   "require-dev": {
     "ext-xml": "*",
